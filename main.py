@@ -1,4 +1,4 @@
-# Periodic Table Information Finder (non metals)
+# Periodic Table Information Finder (non-metals)
 from pyscript import display, document
 
 # Python dictionary of non-metal elements
