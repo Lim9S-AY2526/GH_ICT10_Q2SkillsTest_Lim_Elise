@@ -1,0 +1,55 @@
+/* Simple Cute Pink Theme */
+body {
+    background-color: #ffe6ed;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Card Styling */
+.card {
+    border: 2px solid #ffb6c1;
+    border-radius: 15px;
+    background-color: #ffffff;
+}
+
+/* Header Banner */
+.card-header {
+    background-color: #ff85a2 !important;
+    border-top-left-radius: 13px !important;
+    border-top-right-radius: 13px !important;
+}
+
+/* Instructions Box */
+.alert-info {
+    background-color: #fff0f5 !important;
+    border: 1px dashed #ffb6c1 !important;
+    color: #d81b60 !important;
+}
+
+/* Input Focus Border */
+.form-control:focus {
+    border-color: #ff85a2;
+    box-shadow: 0 0 5px rgba(255, 133, 162, 0.5);
+}
+
+/* Button Styling */
+.btn-success {
+    background-color: #ff7597 !important;
+    border: none !important;
+    border-radius: 10px;
+}
+
+.btn-success:hover {
+    background-color: #ff4d6d !important;
+}
+
+/* Result Box */
+#result_display {
+    background-color: #fff8fa !important;
+    border-left: 4px solid #ff7597 !important;
+}
+
+/* Footer Banner */
+.card-footer {
+    background-color: #fff0f5 !important;
+    color: #b36b85 !important;
+}
